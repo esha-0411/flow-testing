@@ -1,0 +1,10 @@
+{
+  "service": "ai-flow-testing",
+  "version": "1.0.0",
+  "scheduler_interval": "2 minutes",
+  "features": [
+    "email-read",
+    "webhook-listener",
+    "ai-summary"
+  ]
+}
