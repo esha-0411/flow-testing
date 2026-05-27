@@ -1,0 +1,2 @@
+Google Chat integration support added for PR notification workflows.
+This module will be used to send GitHub PR reports to Google Chat channels.
