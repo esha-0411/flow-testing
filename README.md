@@ -16,3 +16,6 @@ This repository is used for testing:
 - Flask
 - Cron Scheduling
 - GitHub Webhooks
+## Scheduler Feature
+
+This update adds automated scheduling support for monitoring incoming emails every 2 minutes.
