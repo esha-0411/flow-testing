@@ -5,6 +5,7 @@ This repository is used for testing:
 - AI Flow automation
 - Pull request analysis
 - Scheduler integrations
+- also used for mcp testing
  Features
 
 - Email summarization
